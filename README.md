@@ -59,7 +59,7 @@ project-root/
 
 ### Environment Variables
 
-Both applications use environment variables to connect to databases and RabbitMQ. Create `.env` files in each app directory with the following configuration:
+Both applications use environment variables to connect to databases and RabbitMQ. Create `.env` files in each app directory using the `.env.example` file:
 
 ```plaintext
 # Common Variables
